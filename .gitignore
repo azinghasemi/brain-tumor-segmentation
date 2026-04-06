@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+data/
+outputs/
+logs/
+*.h5
+*.keras
+*.weights.h5
+.DS_Store
+.ipynb_checkpoints/
